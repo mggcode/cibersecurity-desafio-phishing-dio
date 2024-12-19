@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Facebook <img src="https://github.com/mggcode/cibersecurity-desafio-phishing-dio/blob/main/kalicon.png?raw=true" width="50" />
 
 ### Ferramentas
 
